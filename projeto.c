@@ -2,5 +2,5 @@
 #include <stdlib.h>
 
 void main () {
-  
+  printf("Boa Noite.");
 }
